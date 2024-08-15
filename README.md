@@ -1,2 +1,2 @@
-#Supreme Charters
-Luxury yacht charter in Miami
+# Supreme Charters
+Luxury Yacht Rental in Miami South Beach
