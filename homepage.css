@@ -467,7 +467,7 @@ nav ul li a {
 
 /* welcome-message */
 .welcome-msg {
-    margin: 5rem 0rem 3rem 0rem;
+    padding: 3rem 0rem 3rem 0rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -521,7 +521,7 @@ nav ul li a {
 
 @media (max-width: 1150px) {
     .welcome-msg {
-        margin: 4rem 0rem 3rem 0rem;
+        padding: 2rem 0rem 3rem 0rem;
     }
     
     .welcome-msg h2 {
@@ -549,7 +549,7 @@ nav ul li a {
 
 @media (max-width: 685px) {
     .welcome-msg {
-        margin: 3rem 0rem 2rem 0rem;
+        padding: 1.3rem 0rem 2rem 0rem;
     }
     
     .welcome-msg h2 {
