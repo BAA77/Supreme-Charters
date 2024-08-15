@@ -657,6 +657,14 @@ nav ul li a {
     margin-top: 0.1rem;
 }
 
+.booking-form-input label {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 23px;
+}
+
 .booking-form-input input::-webkit-input-placeholder {
     color: rgb(18, 18, 18);
 }
@@ -731,6 +739,10 @@ nav ul li a {
         padding: 0.3rem 0.2rem;
         margin-top: 0.2rem;
     }
+
+    .booking-form-input label {
+        font-size: 20px;
+    }
     
     .booking-form-input input:focus {
         border-bottom: 2px solid #07315d;
@@ -781,6 +793,10 @@ nav ul li a {
         border-bottom: 2px solid rgb(18, 18, 18);
         padding: 0.2rem 0.2rem;
         margin-top: 0.3rem;
+    }
+
+    .booking-form-input label {
+        font-size: 19px;
     }
     
     .booking-form-input input:focus {
